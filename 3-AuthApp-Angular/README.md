@@ -1,3 +1,7 @@
+# Video Demo
+
+https://github.com/user-attachments/assets/d11fd94a-cded-4f6e-8ac9-18feb0e3f170
+
 # AuthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
